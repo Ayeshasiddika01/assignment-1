@@ -23,14 +23,14 @@
     font-weight: 700;
     font-size: 65px;
     color: #FFFFFF;
-   
+
 }
 
 .header-description {
     font-weight: 400;
     font-size: 16px;
     color: #FFFFFF;
-   padding: 24px 0 32px 0;
+    padding: 24px 0 32px 0;
 }
 
 .btn-primary {
@@ -43,4 +43,39 @@
     font-size: 20px;
     color: #005FAC;
     margin-top: 32px;
+}
+
+/* failurs styles */
+.failur {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 130px;
+}
+
+.failurs-container {
+    width: 416px;
+    margin: auto 0;
+}
+
+.failur-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    font-family: 'Work Sans';
+
+}
+
+.failur-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin: 24px 0 16px 0;
+}
+
+.check {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 8px;
 }
