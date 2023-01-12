@@ -87,7 +87,7 @@
     font-size: 40px;
     color: #151414;
     margin: 130px 0 50px 0;
-    
+
 }
 
 .plans-subtitle {
@@ -110,9 +110,36 @@
     justify-content: center;
     gap: 130px;
     text-align: center;
-    
-    
-    
-    
-
 }
+/* always styles */
+.always{
+    width: 1140px;
+    height: 300px;
+    margin: 0 auto;
+    background-image: linear-gradient(to left, rgba(255, 0, 0, 0), rgb(0, 132, 255)), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover bottom;
+    margin-top: 130px;
+}
+
+.always-title {
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 60px 617px 0px 64px;
+    line-height: 47px;
+}
+
+ .btn-primary {
+    margin-left: 64PX;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    height: 64px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+}
+
