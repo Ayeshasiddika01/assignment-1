@@ -79,3 +79,40 @@
     color: #444343;
     margin-bottom: 8px;
 }
+
+/* my plans style */
+.my-plans-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin: 130px 0 50px 0;
+    
+}
+
+.plans-subtitle {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin: 16px 0 16px 0;
+}
+
+.plans-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
+
+}
+
+.plans-container {
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    text-align: center;
+    
+    
+    
+    
+
+}
