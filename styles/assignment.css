@@ -111,8 +111,9 @@
     gap: 130px;
     text-align: center;
 }
+
 /* always styles */
-.always{
+.always {
     width: 1140px;
     height: 300px;
     margin: 0 auto;
@@ -131,7 +132,7 @@
     line-height: 47px;
 }
 
- .btn-primary {
+.btn-primary{
     margin-left: 64PX;
     background: #FFFFFF;
     border-radius: 5px;
@@ -143,3 +144,71 @@
     color: #005FAC;
 }
 
+/* footer styles */
+.footer {
+    background-size: 100%;
+    background: #151414;
+    display: flex;
+    margin-top: 130px;
+}
+
+.footer-container {
+    margin: 130px 230px;
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.footer-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+
+}
+
+.information {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.footer-subtitle {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.footer a {
+
+    text-decoration: none;
+}
+
+
+.email {
+    font-weight: 400;
+    font-size: 18px;
+    padding: 21px 100px 21px 21px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    background: #1E1E1E;
+}
+.btn-primary{
+    background: #005FAC;
+    border-radius: 5px;
+    border: 0;
+    height: 64px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 32px;
+    margin-left: 0;
+
+}
